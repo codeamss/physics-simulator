@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/physics-simulator/static/css/main.e6c13ad2.css",
+    "main.js": "/physics-simulator/static/js/main.3fa557c9.js",
+    "static/js/453.430d1579.chunk.js": "/physics-simulator/static/js/453.430d1579.chunk.js",
+    "index.html": "/physics-simulator/index.html",
+    "main.e6c13ad2.css.map": "/physics-simulator/static/css/main.e6c13ad2.css.map",
+    "main.3fa557c9.js.map": "/physics-simulator/static/js/main.3fa557c9.js.map",
+    "453.430d1579.chunk.js.map": "/physics-simulator/static/js/453.430d1579.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3fa557c9.js"
+  ]
+}
